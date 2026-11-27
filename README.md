@@ -29,8 +29,8 @@ Step 7: Save and run the application.
 ```
 
 Program to play and control the audio file”.
-Developed by: SATHANA V 
-Register Number :212224220091
+Developed by: GANESH PRABHU J
+Register Number :212223220023
 
 ```
 ### MainActivity.java
